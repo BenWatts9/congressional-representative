@@ -35,12 +35,14 @@ img {
 .committees {
     color: red;
     font-size: 1.3em;
-    margin-bottom: 2px;
+
 }
 
 .committees ul{
-    list-style-type: none;
     color: red;
+    padding-top: 1px;
+    margin-top: 1px;
+
 }
 
 .comname {
